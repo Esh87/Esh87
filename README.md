@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Esh87
-- 👀 I’m interested in progressing in Software Engineering
-- 🌱 I’m currently learning and refreshing my memory on C++
-- ⚡ Fun fact: I am very artisy
+👋 Hi, I'm @Esh87!
+👀 I'm passionate about advancing my career in Software Engineering.
+🌱 Currently, I'm diving deep into C++ to enhance and refresh my skills.
+🎨 Fun fact: I have a flair for the arts and love being creative!
 
 <!---
 Esh87/Esh87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
